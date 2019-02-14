@@ -18,7 +18,7 @@ There are a number of rules that are es6-specific, so you may also want to consi
 
 ```json
 {
-    "extends": "eslint-config-fixable",
+    "extends": "eslint-config-fix-all",
     "parser": "babel-eslint"
 }
 ```
