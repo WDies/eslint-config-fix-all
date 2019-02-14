@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-fix-all",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A eslint preset with all the fixable rules",
   "main": "index.js",
   "scripts": {
