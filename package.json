@@ -1,0 +1,29 @@
+{
+  "name": "eslint-config-fix-all",
+  "version": "1.0.0",
+  "description": "A eslint preset with all the fixable rules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WDies/eslint-config-fix-all.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-config",
+    "fixable-rules",
+    "fixable"
+  ],
+  "author": "WD",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WDies/eslint-config-fix-all/issues"
+  },
+  "homepage": "https://github.com/WDies/eslint-config-fix-all#readme",
+  "dependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.13.0"
+  }
+}
